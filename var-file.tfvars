@@ -1,0 +1,6 @@
+region = "us-east-1"
+team = "DevOps"
+profile = "default"
+endpoint = "testemail@gmail.com"
+topic_name = "sns-dev"
+protocol_type = "email"
